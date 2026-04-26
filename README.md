@@ -15,7 +15,7 @@ insmod puf
 ```
 ### execute
 ```javascript
-puf
+puf_dump
 
 ```
 
